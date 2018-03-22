@@ -1,0 +1,2 @@
+# shoal
+Dockerfile generator
